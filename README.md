@@ -32,7 +32,7 @@ Vous noterez que le tout premier document de la liste est le seul à avoir bén�
 - MacaronDB_documentation.pdf
 
         Documentation du projet MacaronDB
-        [https://github.com/gregja/macaronDB](https://github.com/gregja/macaronDB)
+        https://github.com/gregja/macaronDB
         J'avais développé le projet MacaronDB après avoir constaté la difficulté à porter du 
         code PHP d'un stack PHP hors IBM i, vers un stack PHP sur IBM i. Cette difficulté était 
         inhérente au fait que le connecteur DB2 n'était pas le même selon l'environnement 
@@ -60,5 +60,5 @@ Vous noterez que le tout premier document de la liste est le seul à avoir bén�
 
 Pour compléter votre information sur l'écosystème IBM i, et en particulier sur la base de données DB2 for i, je vous invite à vous reporter à mon autre dépôt Github, dédié à ce sujet :
 
-[https://github.com/gregja/SQLMasters](https://github.com/gregja/SQLMasters)
+https://github.com/gregja/SQLMasters
 
